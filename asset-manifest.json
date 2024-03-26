@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kaltura-product-analytics/static/css/main.da6b5846.css",
-    "main.js": "/kaltura-product-analytics/static/js/main.a3dc542b.js",
+    "main.css": "/kaltura-product-analytics/static/css/main.51748ce9.css",
+    "main.js": "/kaltura-product-analytics/static/js/main.fd4cc579.js",
     "static/js/453.cf6f9905.chunk.js": "/kaltura-product-analytics/static/js/453.cf6f9905.chunk.js",
     "index.html": "/kaltura-product-analytics/index.html",
-    "main.da6b5846.css.map": "/kaltura-product-analytics/static/css/main.da6b5846.css.map",
-    "main.a3dc542b.js.map": "/kaltura-product-analytics/static/js/main.a3dc542b.js.map",
+    "main.51748ce9.css.map": "/kaltura-product-analytics/static/css/main.51748ce9.css.map",
+    "main.fd4cc579.js.map": "/kaltura-product-analytics/static/js/main.fd4cc579.js.map",
     "453.cf6f9905.chunk.js.map": "/kaltura-product-analytics/static/js/453.cf6f9905.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da6b5846.css",
-    "static/js/main.a3dc542b.js"
+    "static/css/main.51748ce9.css",
+    "static/js/main.fd4cc579.js"
   ]
 }
