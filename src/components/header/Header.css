@@ -1,0 +1,23 @@
+.header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding: 24px;
+}
+.title {
+  font-size: 24px;
+  color: #333333;
+  font-weight: 700;
+}
+.label {
+  margin-right: 8px;
+  margin-left: 12px;
+}
+.pushLeft {
+  margin-left: auto;
+}
+
+input {
+  padding: 8px !important;
+  width: 100px !important;
+}
