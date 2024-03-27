@@ -2,7 +2,6 @@ import React, {useCallback, useEffect, useState} from 'react';
 import './TopVideos.css';
 import {Dayjs} from "dayjs";
 import AreaBlocker from "../../shared/area-blocker/AreaBlocker";
-import {Button} from "@kaltura/ds-react-bits";
 import {
     KalturaEndUserReportInputFilter,
     KalturaPager, KalturaReportGraph,
@@ -82,7 +81,7 @@ function TopVideos(props: TopVideosProps) {
   return (
       <AreaBlocker loading={loading}>
           <span>Top Videos</span>
-          <Button onClick={loadReport} className="btn">Apply</Button>
+          <span onClick={loadReport} className="btn">Load report</span>
           <ReactECharts option={graphOptions} />
       </AreaBlocker>
 

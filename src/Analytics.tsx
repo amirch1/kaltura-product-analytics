@@ -8,6 +8,7 @@ import { AdapterDayjs } from '@mui/x-date-pickers/AdapterDayjs'
 import dayjs, {Dayjs} from "dayjs";
 import TopVideos from "./views/top-videos/TopVideos";
 import Filter from "./shared/filter/Filter";
+import Geo from "./views/geo/Geo";
 
 function Analytics() {
 
@@ -31,6 +32,7 @@ function Analytics() {
                   <Header onDateChange={onDateChange} dateRange={dateRange} filterOpen={filterOpen} onToggleFilter={onToggleFilter}></Header>
                   <Filter open={filterOpen}></Filter>
                   <TopVideos dateRange={dateRange}></TopVideos>
+                  <Geo dateRange={dateRange}></Geo>
               </div>
             </LocalizationProvider>
         </ThemeProvider>
