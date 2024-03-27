@@ -45,9 +45,9 @@ function DateRangePicker(props: DateRangeProps) {
   return (
       <div className="picker">
           <div className="range" onClick={toggleOpen}>
-              <span>{fromValue!.format('DD/MM/YYYY')}</span> - <span>{toValue!.format('DD/MM/YYYY')}</span>
-              {!open && <ChevronDown24Icon/>}
-              {open && <ChevronUp24Icon/>}
+              <span>{fromValue!.format('DD/MM/YYYY')}</span>&nbsp;-&nbsp;<span className="marginRight">{toValue!.format('DD/MM/YYYY')}</span>
+              {!open && <ChevronDown24Icon className="arrow"/>}
+              {open && <ChevronUp24Icon className="arrow"/>}
           </div>
           {open && <div className="dates">
               <span className="label">From:</span>

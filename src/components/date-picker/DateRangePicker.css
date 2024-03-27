@@ -1,8 +1,7 @@
 .picker {
   position: fixed;
-  width: 210px;
   top: 30px;
-  right: 30px;
+  right: 24px;
   display: flex;
   flex-direction: column;
 }
@@ -10,17 +9,26 @@
   display: flex;
   align-items: center;
   cursor: pointer;
-  margin-bottom: 8px;
-  padding-left: 8px;
+  padding: 8px 8px 6px 16px;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.picker .range .marginRight {
+  margin-right: 8px;
+}
+.picker .range .arrow {
+  color: #666666;
 }
 .picker .dates {
-  width: 210px;
+  width: 230px;
   display: flex;
   flex-direction: column;
   padding: 24px;
   border: 1px solid #cccccc;
   border-radius: 4px;
   background-color: white;
+  margin-top: 4px;
 }
 .picker .label {
   margin-bottom: 4px;
@@ -33,5 +41,5 @@
 }
 .picker input {
   padding: 8px !important;
-  width: 100px !important;
+  width: 122px !important;
 }
