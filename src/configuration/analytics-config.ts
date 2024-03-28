@@ -1,5 +1,5 @@
 export const analyticsConfig = {
-    baseUrl: 'https://www.kaltura.com',
+    baseUrl: 'https://ny-front-stg.kaltura.com',
     valueSeparator: '|',
     ks: ''
 }
