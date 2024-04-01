@@ -1,15 +1,27 @@
 {
   "files": {
-    "main.css": "/kaltura-product-analytics/static/css/main.10452827.css",
-    "main.js": "/kaltura-product-analytics/static/js/main.e87f5266.js",
+    "main.css": "/kaltura-product-analytics/static/css/main.38dc90f5.css",
+    "main.js": "/kaltura-product-analytics/static/js/main.c62492b8.js",
     "static/js/453.0483b52a.chunk.js": "/kaltura-product-analytics/static/js/453.0483b52a.chunk.js",
+    "static/media/Settings.svg": "/kaltura-product-analytics/static/media/Settings.f9b9c436b9426885a432be6a01c81f22.svg",
+    "static/media/logo.svg": "/kaltura-product-analytics/static/media/logo.69e80985f56966870f6c0f8b72c7c16a.svg",
+    "static/media/PageLoads.svg": "/kaltura-product-analytics/static/media/PageLoads.846124131bbeedc82e7d867f7684cdac.svg",
+    "static/media/Help.svg": "/kaltura-product-analytics/static/media/Help.c2ab29d69de014cc51d607f1c8eb13b0.svg",
+    "static/media/MoodBlur2.svg": "/kaltura-product-analytics/static/media/MoodBlur2.596453de715b5c7f8b4f.svg",
+    "static/media/MoodBlur.svg": "/kaltura-product-analytics/static/media/MoodBlur.16b852d21810577cbd9f.svg",
+    "static/media/User.svg": "/kaltura-product-analytics/static/media/User.32a3b2f16c5a2fe78dd21b1f9d8a6409.svg",
     "index.html": "/kaltura-product-analytics/index.html",
-    "main.10452827.css.map": "/kaltura-product-analytics/static/css/main.10452827.css.map",
-    "main.e87f5266.js.map": "/kaltura-product-analytics/static/js/main.e87f5266.js.map",
+    "static/media/ArrowRight.svg": "/kaltura-product-analytics/static/media/ArrowRight.32533191e646ffa796c199a90914f0d8.svg",
+    "static/media/ButtonClicks.svg": "/kaltura-product-analytics/static/media/ButtonClicks.e9b8129017a40278c996fd9f2a16004c.svg",
+    "static/media/TopFeature.svg": "/kaltura-product-analytics/static/media/TopFeature.f8a354f82af3b44476af803c36e4bd5c.svg",
+    "static/media/ChevronDown16.svg": "/kaltura-product-analytics/static/media/ChevronDown16.31ffe530686fcce7fcaf3cd10232dea3.svg",
+    "static/media/Feature.svg": "/kaltura-product-analytics/static/media/Feature.04d3ba527204ebb541bc71760fc87aab.svg",
+    "main.38dc90f5.css.map": "/kaltura-product-analytics/static/css/main.38dc90f5.css.map",
+    "main.c62492b8.js.map": "/kaltura-product-analytics/static/js/main.c62492b8.js.map",
     "453.0483b52a.chunk.js.map": "/kaltura-product-analytics/static/js/453.0483b52a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.10452827.css",
-    "static/js/main.e87f5266.js"
+    "static/css/main.38dc90f5.css",
+    "static/js/main.c62492b8.js"
   ]
 }
