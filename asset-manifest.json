@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kaltura-product-analytics/static/css/main.38dc90f5.css",
-    "main.js": "/kaltura-product-analytics/static/js/main.c62492b8.js",
+    "main.css": "/kaltura-product-analytics/static/css/main.eff3fa15.css",
+    "main.js": "/kaltura-product-analytics/static/js/main.b85d99de.js",
     "static/js/453.0483b52a.chunk.js": "/kaltura-product-analytics/static/js/453.0483b52a.chunk.js",
     "static/media/Settings.svg": "/kaltura-product-analytics/static/media/Settings.f9b9c436b9426885a432be6a01c81f22.svg",
     "static/media/logo.svg": "/kaltura-product-analytics/static/media/logo.69e80985f56966870f6c0f8b72c7c16a.svg",
@@ -16,12 +16,12 @@
     "static/media/TopFeature.svg": "/kaltura-product-analytics/static/media/TopFeature.f8a354f82af3b44476af803c36e4bd5c.svg",
     "static/media/ChevronDown16.svg": "/kaltura-product-analytics/static/media/ChevronDown16.31ffe530686fcce7fcaf3cd10232dea3.svg",
     "static/media/Feature.svg": "/kaltura-product-analytics/static/media/Feature.04d3ba527204ebb541bc71760fc87aab.svg",
-    "main.38dc90f5.css.map": "/kaltura-product-analytics/static/css/main.38dc90f5.css.map",
-    "main.c62492b8.js.map": "/kaltura-product-analytics/static/js/main.c62492b8.js.map",
+    "main.eff3fa15.css.map": "/kaltura-product-analytics/static/css/main.eff3fa15.css.map",
+    "main.b85d99de.js.map": "/kaltura-product-analytics/static/js/main.b85d99de.js.map",
     "453.0483b52a.chunk.js.map": "/kaltura-product-analytics/static/js/453.0483b52a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.38dc90f5.css",
-    "static/js/main.c62492b8.js"
+    "static/css/main.eff3fa15.css",
+    "static/js/main.b85d99de.js"
   ]
 }
