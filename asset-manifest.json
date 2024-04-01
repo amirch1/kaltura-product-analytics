@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/kaltura-product-analytics/static/css/main.6da3d4f0.css",
-    "main.js": "/kaltura-product-analytics/static/js/main.b836b0d5.js",
+    "main.js": "/kaltura-product-analytics/static/js/main.d047467f.js",
     "static/js/453.0483b52a.chunk.js": "/kaltura-product-analytics/static/js/453.0483b52a.chunk.js",
-    "static/media/epAccountEvents.png": "/kaltura-product-analytics/static/media/epAccountEvents.0b8735080284f4a3456e.png",
-    "static/media/epEventUsers.png": "/kaltura-product-analytics/static/media/epEventUsers.e230e023391c36f36fe8.png",
-    "static/media/epAccountCreateEvent.png": "/kaltura-product-analytics/static/media/epAccountCreateEvent.1fba4c38d5bf9ecb277a.png",
+    "static/media/epAccountEvents.png": "/kaltura-product-analytics/static/media/epAccountEvents.5c66b38588b94c1b74e9.png",
+    "static/media/epEventUsers.png": "/kaltura-product-analytics/static/media/epEventUsers.16e6f867bf187c191167.png",
+    "static/media/epAccountCreateEvent.png": "/kaltura-product-analytics/static/media/epAccountCreateEvent.e1b02dc12e30019e9bf2.png",
     "static/media/Settings.svg": "/kaltura-product-analytics/static/media/Settings.f9b9c436b9426885a432be6a01c81f22.svg",
     "static/media/logo.svg": "/kaltura-product-analytics/static/media/logo.69e80985f56966870f6c0f8b72c7c16a.svg",
     "static/media/PageLoads.svg": "/kaltura-product-analytics/static/media/PageLoads.846124131bbeedc82e7d867f7684cdac.svg",
@@ -18,11 +18,11 @@
     "static/media/ChevronDown16.svg": "/kaltura-product-analytics/static/media/ChevronDown16.31ffe530686fcce7fcaf3cd10232dea3.svg",
     "static/media/Feature.svg": "/kaltura-product-analytics/static/media/Feature.04d3ba527204ebb541bc71760fc87aab.svg",
     "main.6da3d4f0.css.map": "/kaltura-product-analytics/static/css/main.6da3d4f0.css.map",
-    "main.b836b0d5.js.map": "/kaltura-product-analytics/static/js/main.b836b0d5.js.map",
+    "main.d047467f.js.map": "/kaltura-product-analytics/static/js/main.d047467f.js.map",
     "453.0483b52a.chunk.js.map": "/kaltura-product-analytics/static/js/453.0483b52a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6da3d4f0.css",
-    "static/js/main.b836b0d5.js"
+    "static/js/main.d047467f.js"
   ]
 }
