@@ -1,0 +1,6 @@
+{
+  "KMC": {
+    "value": ["kmcKey1","kmcKey2","kmcKey3"],
+    "label": "Group name for UI"
+  }
+}

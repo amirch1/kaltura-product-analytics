@@ -1,0 +1,44 @@
+.geo {
+    background-color: #111111;
+    width: 100%;
+    border-radius: 8px;
+    color: white;
+    position: relative;
+    height: 80px;
+    transition: height 0.25s ease-in-out;
+    overflow: hidden;
+}
+.geo.open {
+    height: 458px;
+}
+.geo .header {
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+}
+.geo .header .title {
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 16px;
+}
+.geo .zoom {
+    position: absolute;
+    right: 24px;
+    bottom: 24px;
+    width: 94px;
+    height: 32px;
+    border: 1px solid #525252;
+    border-radius: 4px;
+    display: flex;
+}
+.geo .zoom .zoomBtn {
+    width: 50%;
+    background-color: black;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.geo .zoom .zoomBtn:hover {
+    background-color: #212121;
+}

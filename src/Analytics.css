@@ -4,6 +4,57 @@
   font-size: 15px;
   display: flex;
   flex-direction: column;
-  background-color: #f2f2f2;
-  padding: 24px;
+  background-color: #222222;
+  min-height: 100vh;
+  color: #ffffff;
+}
+.nothing {
+  width: 100%;
+  text-align: center;
+  padding-top: 100px;
+  font-size: 24px;
+  font-weight: 700;
+}
+.app .header {
+  width: 100%;
+  height: 56px;
+  background-color: #111111;
+  display: flex;
+  align-items: center;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+.app .header .buzzboard {
+  font-size: 16px;
+  font-weight: 700px;
+  margin-left: 12px;
+}
+.app .headerRight {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+.app .headerRight svg {
+  margin-right: 12px;
+  margin-left: 12px;
+}
+.app .userName {
+  font-size: 16px;
+  margin-left: 12px;
+  font-weight: 700;
+}
+.app .filters {
+  display: flex;
+  width: 100%;
+  padding-top: 30px;
+  padding-right: 120px;
+  padding-left: 120px;
+  box-sizing: border-box;
+}
+.app .miniViews {
+  display: flex;
+  width: 100%;
+  padding-left: 120px;
+  padding-right: 120px;
+  margin-top: 24px;
 }

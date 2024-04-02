@@ -82,5 +82,10 @@ export class ReportUtils {
         return 0;
     }
 
+    static numberWithCommas(x: any): string {
+        // use en-US format always to have consistent formatting
+        return parseFloat(x).toLocaleString('en-US', { maximumSignificantDigits: 20 });
+    }
+
 }
 

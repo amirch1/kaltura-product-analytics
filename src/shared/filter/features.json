@@ -1,0 +1,272 @@
+{
+  "KMC": [
+    {
+      "value": "KMC_content_entries_list",
+      "label": "KMC > Entries list view"
+    },
+    {
+      "value": "Search_entries",
+      "label": "KMC > Search entries"
+    },
+    {
+      "value": "Create",
+      "label": "KMC > Create button clicked"
+    },
+    {
+      "value": "KMC_content_categories_list",
+      "label": "KMC > Categories list view"
+    },
+    {
+      "value": "Share_Embed",
+      "label": "KMC > Share and Embed"
+    },
+    {
+      "value": "Bulk_delete",
+      "label": "KMC > Bulk delete"
+    },
+    {
+      "value": "Administration_users",
+      "label": "KMC > KMC users view"
+    },
+    {
+      "value": "Filter_categories",
+      "label": "KMC > Filter categories"
+    },
+    {
+      "value": "Add_category",
+      "label": "KMC > Add category"
+    },
+    {
+      "value": "KMC_content_bulk_upload_list",
+      "label": "KMC > Bulk upload - progress view"
+    },
+    {
+      "value": "KMC_content_playlist_list",
+      "label": "KMC > Playlists list view"
+    },
+    {
+      "value": "KMC_content_moderation_list",
+      "label": "KMC > Moderated content list view"
+    },
+    {
+      "value": "Refine",
+      "label": "KMC > Refine search"
+    }
+  ],
+  "KMS": [
+    {
+      "value": "Home",
+      "label": "KMS > Home"
+    },
+    {
+      "value": "Login",
+      "label": "KMS > Login"
+    },
+    {
+      "value": "Search",
+      "label": "KMS > Search"
+    },
+    {
+      "value": "Entry View - VOD",
+      "label": "KMS > VOD page"
+    },
+    {
+      "value": "Entry View - IVQ",
+      "label": "KMS > IVQ page"
+    },
+    {
+      "value": "Entry View - Audio",
+      "label": "KMS > Audio entry page"
+    },
+    {
+      "value": "Entry View - IVQ",
+      "label": "KMS > IVQ page"
+    },
+    {
+      "value": "Entry View - KME",
+      "label": "KMS > KME room lobby page"
+    },
+    {
+      "value": "Entry View - Live",
+      "label": "KMS > IVQ page view"
+    },
+    {
+      "value": "My Media",
+      "label": "KMS > My Media"
+    },
+    {
+      "value": "My Channels",
+      "label": "KMS > My Channels"
+    },
+    {
+      "value": "KEA Editor",
+      "label": "KMS > KEA Editor"
+    },
+    {
+      "value": "My Calendar",
+      "label": "KMS > My Calendar"
+    },
+    {
+      "value": "Entry Edit",
+      "label": "KMS > Edit entry"
+    },
+    {
+      "value": "Add - Upload",
+      "label": "KMS > Upload"
+    }
+  ],
+  "Analytics": [
+    {
+      "value": "Analytics_engagement",
+      "label": "Analytics > Engagement - general view"
+    },
+    {
+      "value": "Calendar",
+      "label": "Analytics > Date period changed"
+    },
+    {
+      "value": "Analytics_entry_live",
+      "label": "Analytics > Live - Real time dashboard"
+    },
+    {
+      "value": "Analytics_usage_overview",
+      "label": "Analytics > Account usage overview"
+    },
+    {
+      "value": "Analytics_live",
+      "label": "Analytics > Live entry"
+    },
+    {
+      "value": "Analytics_entry_webcast",
+      "label": "Analytics > Live webcast entry"
+    },
+    {
+      "value": "Analytics_content_interactions",
+      "label": "Analytics > Content interactions"
+    },
+    {
+      "value": "Analytics_geo_location",
+      "label": "Analytics > Geo location"
+    },
+    {
+      "value": "Export",
+      "label": "Analytics > Export analytics report"
+    }
+  ],
+  "KME": [
+    {
+      "value": "JoinMeeting",
+      "label": "KME > Join meeting"
+    },
+    {
+      "value": "SearchUser",
+      "label": "KME > Search user"
+    },
+    {
+      "value": "MicOff",
+      "label": "KME > Mute microphone"
+    },
+    {
+      "value": "MicOn",
+      "label": "KME > Unmute microphone"
+    },
+    {
+      "value": "CamOff",
+      "label": "KME > Turn off camera"
+    },
+    {
+      "value": "BlurOff",
+      "label": "KME > Camera background blur - Off"
+    },
+    {
+      "value": "DeclineInvitationToStage",
+      "label": "KME > Decline invitation to stage"
+    },
+    {
+      "value": "OpenParticipantsPanel",
+      "label": "KME > Open participants panel"
+    },
+    {
+      "value": "ToolsMenu",
+      "label": "KME > Open tools menu"
+    },
+    {
+      "value": "BreakoutStartRoom",
+      "label": "KME > Start breakout rooms"
+    },
+    {
+      "value": "LeaveRoom",
+      "label": "KME > Leave room (participant)"
+    },
+    {
+      "value": "PlayImage",
+      "label": "KME > Image sharing"
+    },
+    {
+      "value": "PlayVideo",
+      "label": "KME > Video sharing"
+    },
+    {
+      "value": "Share",
+      "label": "KME > Screen sharing"
+    }
+  ],
+  "EP": [
+    {
+      "value": "epAccountEvents",
+      "label": "EP > Events list view"
+    },
+    {
+      "value": "epAccountCreateEvent",
+      "label": "EP > Event creation form"
+    },
+    {
+      "value": "createEvent",
+      "label": "EP > Create event"
+    },
+    {
+      "value": "epEventUsers",
+      "label": "EP > Event user list"
+    },
+    {
+      "value": "epEventAgenda",
+      "label": "EP > Event agenda"
+    },
+    {
+      "value": "epEventRegForm",
+      "label": "EP > Event registration form"
+    },
+    {
+      "value": "registrationanalytics",
+      "label": "EP > Registration analytics view"
+    },
+    {
+      "value": "epEventEngagementAnalytics",
+      "label": "EP > Engagement analytics view"
+    },
+    {
+      "value": "epEventBranding",
+      "label": "EP > Event branding page"
+    },
+    {
+      "value": "usersSearch",
+      "label": "EP > Search users"
+    },
+    {
+      "value": "usersInvite",
+      "label": "EP > Invite user"
+    },
+    {
+      "value": "usersBulkInvite",
+      "label": "EP > Invite users in bulk"
+    },
+    {
+      "value": "agendaEditSession",
+      "label": "EP > Edit session"
+    },
+    {
+      "value": "registrationPublish",
+      "label": "EP > Open registration"
+    }
+  ]
+}

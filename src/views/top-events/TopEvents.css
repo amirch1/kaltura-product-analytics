@@ -1,0 +1,22 @@
+.topEvents {
+    background-color: #111111;
+    width: 100%;
+    border-radius: 8px;
+    color: white;
+    height: 80px;
+    transition: height 0.25s ease-in-out;
+    overflow: hidden;
+}
+.topEvents.open {
+    height: 374px;
+}
+.topEvents .header {
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+}
+.topEvents .header .title {
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 16px;
+}
